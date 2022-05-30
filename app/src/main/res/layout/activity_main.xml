@@ -43,7 +43,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
                 android:gravity="center"
-                android:text="Giuliano D.Cobos Barreto"
+                android:text="Giuliano David.Cobos Barreto"
                 android:textColor="#FF4600"
                 android:textSize="20sp" />
         </LinearLayout>
